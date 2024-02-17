@@ -4,4 +4,4 @@
 
 | 목차 |    미션     |                          1단계 PR                           |                           2단계 PR                           | 회고 |
 | :--: | :---------: | :---------------------------------------------------------: | :----------------------------------------------------------: | :--: |
-| `1`  | 자동차 경주 | [🩵](https://github.com/woowacourse/java-racingcar/pull/665) | [💙](https://github.com/woowacourse/java-racingcar/pull/734) |      |
+| `1`  | 자동차 경주 | [🩵](https://github.com/woowacourse/java-racingcar/pull/665) | [💙](https://github.com/woowacourse/java-racingcar/pull/736) |      |
